@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6fa70325813885809a64a.jpg" alt=" RX BOT KA BRO GITUP">
+  <img src="https://telegra.ph/file/6fa70325813885809a64a.jpg" alt=" RX BOT KA BRO GITUP ">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/TheMovieProviderBot">THE MOVIE PROVIDER BOT</a>
